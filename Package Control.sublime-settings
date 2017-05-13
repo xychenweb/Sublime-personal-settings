@@ -1,0 +1,34 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"1337 Color Scheme",
+		"Alignment",
+		"Babel",
+		"Babel Snippets",
+		"BracketHighlighter",
+		"Calculate Relative Path",
+		"CodeWrapper",
+		"Emmet",
+		"FileDiffs",
+		"Git",
+		"GitGutter",
+		"HTML-CSS-JS Prettify",
+		"JSX",
+		"Package Control",
+		"PackageDev",
+		"Pretty JSON",
+		"ReactJS",
+		"Sass",
+		"SassBeautify",
+		"SCSS",
+		"SideBarEnhancements",
+		"Terminal",
+		"TrailingSpaces",
+		"Whitespace",
+		"Wrapper"
+	]
+}
